@@ -37,11 +37,11 @@ const listItem = images.map(image => {
 list.append(...listItem);
 console.log(listItem);
 
+// const list = document.querySelector('.gallery');
 // const listItem = images
 //   .map(
 //     image =>
-//       `<li class="gallery-item"><img src="${image.url}" alt="${image.alt}"/></li>`
-//   )
+//       `<li class="gallery-item"><img src="${image.url}" alt="${image.alt}"/></li>`)
 //   .join('');
 
 // console.log(listItem);
